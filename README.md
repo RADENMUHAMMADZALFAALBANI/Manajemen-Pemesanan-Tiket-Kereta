@@ -7,8 +7,8 @@ Project Tugas Akhir Struktur Data - Manajemen Pemesanan Tiket Kereta menggunakan
 
 **Anggota:**
 
-1. Nama Anggota 1 (NIM)
-2. Nama Anggota 2 (NIM)
+1. Raden Muhammad Zalfa Albani(2400018058)
+2. Lintang Ayu (25000180)
 
 ## Mata Kuliah
 
@@ -38,14 +38,14 @@ Program ini dibuat untuk membantu pengelolaan pemesanan tiket kereta. Program me
 
 ## Pembagian Tugas
 
-**Anggota 1**
+**Raden**
 
 * Membuat menu utama
 * Menambah data
 * Menampilkan data
 * Membuat struktur data
 
-**Anggota 2**
+**Lintang**
 
 * Linear Search
 * Bubble Sort
